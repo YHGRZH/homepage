@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "icon": "Blog",
+      "name": "博客",
+      "link": "https://yhgrzh.gitee.io/"
+    },
+    {
+      "icon": "Cloud",
+      "name": "网盘",
+      "link": "https://pan.baidu.com/s/1XUMov0GFnuy1m7b95U0fDQ "
+    },
+    {
+      "icon": "CompactDisc",
+      "name": "音乐馆",
+      "link": "https://yhgrzh.gitee.io/music/?id=3142391166&server=tencent"
+    },
+    {
+      "icon": "Compass",
+      "name": "搜索页",
+      "link": "https://blog-yh-home.top"
+    },
+    {
+      "icon": "Book",
+      "name": "网址集",
+      "link": "https://web.imsyy.top/"
+    },
+    {
+      "icon": "Fire",
+      "name": "今日热榜",
+      "link": "https://www.yh-hotpoints.top/#/"
+    }
+  ]
+
+]
